@@ -1,0 +1,1 @@
+{"start_hour": 8, "start_minute": 0, "end_hour": 22, "end_minute": 30, "template_list": ["您好老板，我们是做拓客业务的~只要有对方手机号，就可将您的广告发送对方微信上面，需要的可以添加我哦~", "您好老板，我们是做拓客业务的~，需要可以扫码添加我哦~", "您好老板，只要有对方手机号，就可将您的广告发送对方微信上面，需要可以扫码添加我哦~"], "send_min_space": 3, "send_max_space": 6, "busy_min_space": 10, "busy_max_space": 20, "send_at": 0, "send_first": "17115860413"}
